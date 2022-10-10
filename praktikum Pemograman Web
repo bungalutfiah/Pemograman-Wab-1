@@ -15,3 +15,25 @@
             hingga tulisan <b> tebal </b> akan mudah dibaca.
             biasanya tulisan penting akan <u> diganti</u>
         </p>
+<table>
+<thead>
+    <tr>
+        <th>No</th>
+        <th>Nama</th>
+        <th>Kelas</th>
+    </tr>
+ </thead>
+ <tbody>
+     <tr>
+        <td>1</td>
+        <td>Adam</td>
+        <td>SI-05</td>
+     </tr>
+    <tr>
+    <td>2</td>
+    <td>ahmad</td>
+    <td>SI-05</td>
+ </tr>
+ ...
+</tbody>
+</table>
